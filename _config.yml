@@ -1,0 +1,8 @@
+title: "CyberIT — Apuntes originales"
+description: "Apuntes originales de ciberseguridad IT: NIST CSF 2.0, criptografía, Zero Trust, OWASP, SOC/SIEM y respuesta a incidentes, con bibliografía propia"
+theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

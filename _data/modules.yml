@@ -1,0 +1,39 @@
+- title: 01 - Fundamentos de seguridad de la informacion - CIA riesgo y NIST CSF 2.0
+  filename: 01 - Fundamentos de seguridad de la informacion - CIA riesgo y NIST CSF 2.0
+  url: 01%20-%20Fundamentos%20de%20seguridad%20de%20la%20informacion%20-%20CIA%20riesgo%20y%20NIST%20CSF%202.0
+- title: 02 - Criptografia aplicada - cifrado simetrico asimetrico hashing PKI y TLS
+  filename: 02 - Criptografia aplicada - cifrado simetrico asimetrico hashing PKI y TLS
+  url: 02%20-%20Criptografia%20aplicada%20-%20cifrado%20simetrico%20asimetrico%20hashing%20PKI%20y%20TLS
+- title: 03 - Identidad y control de acceso - MFA RBAC ABAC y Zero Trust
+  filename: 03 - Identidad y control de acceso - MFA RBAC ABAC y Zero Trust
+  url: 03%20-%20Identidad%20y%20control%20de%20acceso%20-%20MFA%20RBAC%20ABAC%20y%20Zero%20Trust
+- title: 04 - Actores y modelo de amenazas - cyber kill chain y MITRE ATTACK Enterprise
+  filename: 04 - Actores y modelo de amenazas - cyber kill chain y MITRE ATTACK Enterprise
+  url: 04%20-%20Actores%20y%20modelo%20de%20amenazas%20-%20cyber%20kill%20chain%20y%20MITRE%20ATTACK%20Enterprise
+- title: 05 - Malware y ransomware - taxonomia y casos reales
+  filename: 05 - Malware y ransomware - taxonomia y casos reales
+  url: 05%20-%20Malware%20y%20ransomware%20-%20taxonomia%20y%20casos%20reales
+- title: 06 - Ingenieria social y phishing
+  filename: 06 - Ingenieria social y phishing
+  url: 06%20-%20Ingenieria%20social%20y%20phishing
+- title: 07 - Seguridad de redes - firewalls segmentacion VPN IDS-IPS
+  filename: 07 - Seguridad de redes - firewalls segmentacion VPN IDS-IPS
+  url: 07%20-%20Seguridad%20de%20redes%20-%20firewalls%20segmentacion%20VPN%20IDS-IPS
+- title: 08 - Seguridad de aplicaciones web - OWASP Top 10 y SDLC seguro
+  filename: 08 - Seguridad de aplicaciones web - OWASP Top 10 y SDLC seguro
+  url: 08%20-%20Seguridad%20de%20aplicaciones%20web%20-%20OWASP%20Top%2010%20y%20SDLC%20seguro
+- title: 09 - Seguridad en la nube - responsabilidad compartida IAM y CSPM
+  filename: 09 - Seguridad en la nube - responsabilidad compartida IAM y CSPM
+  url: 09%20-%20Seguridad%20en%20la%20nube%20-%20responsabilidad%20compartida%20IAM%20y%20CSPM
+- title: 10 - GRC - ISO-IEC 27001 y cumplimiento RGPD
+  filename: 10 - GRC - ISO-IEC 27001 y cumplimiento RGPD
+  url: 10%20-%20GRC%20-%20ISO-IEC%2027001%20y%20cumplimiento%20RGPD
+- title: 11 - SOC y SIEM - arquitectura de deteccion
+  filename: 11 - SOC y SIEM - arquitectura de deteccion
+  url: 11%20-%20SOC%20y%20SIEM%20-%20arquitectura%20de%20deteccion
+- title: 12 - Respuesta a incidentes y forense digital - NIST SP 800-61
+  filename: 12 - Respuesta a incidentes y forense digital - NIST SP 800-61
+  url: 12%20-%20Respuesta%20a%20incidentes%20y%20forense%20digital%20-%20NIST%20SP%20800-61
+- title: 13 - Threat Intelligence y Red-Blue-Purple Teaming
+  filename: 13 - Threat Intelligence y Red-Blue-Purple Teaming
+  url: 13%20-%20Threat%20Intelligence%20y%20Red-Blue-Purple%20Teaming
